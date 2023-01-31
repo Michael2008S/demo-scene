@@ -20,7 +20,7 @@ The associated blog article can be found at https://www.confluent.io/blog/kafka-
 +
 [source,bash]
 ----
-docker exec --tty --interactive ksql-cli ksql http://ksql-server:8088
+docker exec --tty --interactive ksqldb-cli ksql http://ksqldb-server:8088
 ----
 
 * MySQL
